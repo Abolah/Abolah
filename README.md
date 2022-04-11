@@ -40,13 +40,13 @@ This is **Translabot**
 
 You can learn more about **Translabot** here:
 
-[TranslaBot Bot Discord | Top.gg](https://top.gg/fr/bot/950687828138917908)
+[Translabot](https://top.gg/fr/bot/950687828138917908)
 
 ## Status Page
 
 You can find the Status page of my services here:
 
-[Uptime Kuma](https://status.abolah.dev)
+[Status Page](https://status.abolah.dev)
 
 # Contact
 
